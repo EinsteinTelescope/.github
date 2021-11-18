@@ -9,5 +9,4 @@ Gravitational waves contain information about the most extreme events in the uni
 
 ### Links
 - [Einstein Telescope](http://www.et-gw.eu/index.php)
-- [EMR](https://www.einsteintelescope.nl/en/?set_lang=en) - The Euregio-Meuse-Rhine area.
-- 
+- [EMR](https://www.einsteintelescope.nl/en/?set_lang=en) - The Euregio-Meuse-Rhine area
